@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube Tutorial</title>
+
+    <!--Font font-awesome icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <!--Poppins Google Font-->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <form action="#" class="login-form">
+        <div class="section form-header">
+            <div class="user-profilePhoto">
+                <span class="fa-solid fa-key"></span>
+            </div>
+            <div class="form-title">
+                <h1>Login Form</h1>
+                <p>Welcome Back</p>
+            </div>
+        </div>
+        <div class="section">
+            <div class="input-group">
+                <label for="username">Username*</label>
+                <input id="username" type="text" name="username" placeholder="Jhon Doe" required>
+            </div>
+            <div class="input-group">
+                <label for="useremail">Email*</label>
+                <input id="useremail" type="email" name="useremail" placeholder="email@example.com" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password*</label>
+                <input id="password" type="password" name="password" placeholder="123" required>
+
+                <div id="show-password" class="show-password fa-solid fa-lock" data-show="show"></div>
+
+            </div>
+
+            <div class="rememberpass">
+                <input type="checkbox" name="rememberme" id="rememberme">
+                <label for="rememberme">Remember me</label>
+            </div>
+
+            <button class="primary-button">
+                Login
+            </button>
+
+        </div>
+        <div class="section">
+            <div class="social-login">
+                <div class="fa-brands fa-square-facebook"></div>
+                <p>Login with Facebook</p>
+            </div>
+            <div class="social-login">
+                <div class="fa-brands fa-square-google-plus"></div>
+                <p>Login with Google</p>
+            </div>
+
+            <a href="#" class="terms">Terms and Conditions</a>
+        </div>
+    </form>
+
+    <script src="main.js"></script>
+</body>
+</html>
