@@ -13,7 +13,7 @@ Here I upload videos related to ux/ui design and useful coding projects in HTML,
 [<img align="left" alt="YouTube" width="400px" src="https://github.com/MyCoffeeDev/Basic-login-form-design-in-HTML-SCSS-JS/blob/main/Cover.png" />][youtube]
 
 
-### Create a basic login form using HTML, CSS(sass), and JavaScript.
+### Create a Basic login form design in HTML, SCSS & JS.
 
 
 
