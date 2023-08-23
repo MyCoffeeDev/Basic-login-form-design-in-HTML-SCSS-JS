@@ -24,10 +24,6 @@ Here I upload videos related to ux/ui design and useful coding projects in HTML,
 
 </br>
 </br>
-Video Tutorial: https://www.youtube.com/watch?v=zJ8gBA5luaU&t
-
-
-
 In this video I will show you how to create a login form using Html, Sass and Javascript, with a simple and minimal style.
 
 
